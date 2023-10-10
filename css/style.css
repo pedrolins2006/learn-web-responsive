@@ -1,0 +1,144 @@
+@import url("https://fonts.googleapis.com/css2?family=Oxygen:wght@300;400;700&family=Poppins:wght@100;200;300;400;500;600;700;800;900&family=Rubik:wght@300;400;500;600;700;800;900&display=swap");
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  list-style-type: none;
+  text-decoration: none;
+}
+
+h1,
+h2 {
+  font-family: "Oxygen", sans-serif;
+}
+
+.top-header .maxwidth {
+  text-align: center;
+  background: #f6f6f6;
+}
+
+.top-header img {
+  padding: 8px;
+}
+
+.top-header ul {
+  background: #612975;
+}
+
+.top-header a {
+  display: block;
+  padding: 16px 0;
+  font-size: 16px;
+  color: white;
+}
+
+.top-header a:hover {
+  background: #7c3792;
+}
+
+.top-content {
+  text-align: center;
+  padding-top: 48px;
+  background: #f6f6f6;
+}
+
+.top-content h1 {
+  font-size: 22px;
+  margin: 0 30px 30px 30px;
+  color: #612674;
+}
+
+.top-content p {
+  font-size: 16px;
+  color: #a87bb7;
+  font-weight: 600;
+  line-height: 1.5;
+  margin-bottom: 16px;
+  padding: 0 16px;
+}
+
+.button {
+  background: #58c4c4;
+  color: white;
+  padding: 16px 40px;
+  border-radius: 5px;
+  appearance: none;
+  border: none;
+  font-size: 16px;
+}
+
+.middle-content {
+  text-align: center;
+  padding: 42px 32px 32px 32px;
+  background: #f6f6f6;
+}
+
+.middle-content-icon {
+  font-size: 50px;
+  padding-bottom: 2px;
+}
+
+.middle-content h2 {
+  color: #652e78;
+  margin: 16px;
+  text-transform: uppercase;
+  font-size: 20px;
+}
+
+.middle-content p {
+  color: #161616;
+  line-height: 1.5;
+  padding-bottom: 20px;
+}
+
+.main-content article {
+  margin-bottom: 56px;
+}
+
+.main-content {
+  padding: 32px;
+}
+
+.main-content h2 {
+  color: #652e78;
+  font-weight: 400;
+  text-transform: uppercase;
+  font-size: 20px;
+  letter-spacing: 5px;
+  margin: 20px 0;
+}
+
+.main-content p {
+  color: #161616;
+  margin: 16px 0;
+}
+
+.footer {
+  background: #25303e;
+  padding-bottom: 32px;
+}
+
+.footer-menushare {
+  background: #303d4c;
+  display: flex;
+  justify-content: center;
+  gap: 40px;
+  padding-top: 8px;
+  margin: 16px 0px;
+}
+
+.footer-menushare li {
+  margin-bottom: 16px;
+}
+
+.footer-menushare a {
+  font-size: 16px;
+}
+
+.footer p {
+  color: #7b8997;
+  text-align: center;
+  margin: 16px 0;
+}
