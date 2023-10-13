@@ -2,7 +2,9 @@
 
 - Usei o método "Mobile First", portanto desenvolvi para mobile primeiro.
 
-- Resolução inicial tem um widht = 390 e height = 844
+- Resolução inicial tem 390 x 844
+
+- resuluçao máxima testada 1920 x 1020
 
 - Irei aplicar a responsividade para outros tamanhos de tela.
 
